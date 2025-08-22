@@ -10,7 +10,7 @@ A simple calculator built in Python that performs basic operations (add, subtrac
 - Division
 
 ## 📸 Screenshot
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](calculator.png)
 
 ## 🚀 How to Run
 ```bash
